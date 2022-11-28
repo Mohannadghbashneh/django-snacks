@@ -5,8 +5,7 @@
 ### Author: Mohannad Ghbashneh
 
 ### Links and Resources
-- [Pull Request]()
-- [Repo]()
+- [Pull Request](https://github.com/Mohannadghbashneh/django-snacks/pull/1)
 
 ### Setup
 - Clone the Repo
